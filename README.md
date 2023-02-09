@@ -8,7 +8,7 @@ Some keywords in this project:
 - DBSCAN
 
 
-The dataset comprising of different molecules were obtained from the ChEMBL database.
+The dataset comprising of different molecules was obtained from the ChEMBL database.
 
 ## Acknowledgements
 
