@@ -1,8 +1,12 @@
 
 # Three Clustering Algorithms Comparison (Hierarchical Clustering, K Means, and DBSCAN)
-
-A brief description of what this project does and who it's for
-
+Some keywords in this project:
+- Tanimoto similarity distances,
+- Morgan Fingerprint,
+- Hierarchical agglomerative,
+- K Means,
+- DBSCAN
+The dataset comprising of different molecules were obtained from the ChEMBL database.
 
 ## Acknowledgements
 
